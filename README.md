@@ -7,9 +7,9 @@ I’m a passionate Software Engineer who loves developing intuitive and efficien
 ## 🛠️ Skills & Tools
 
 ### 🔧 Back-end
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
@@ -34,10 +34,16 @@ I’m a passionate Software Engineer who loves developing intuitive and efficien
 
 ---
 
-## 🌟 Top Languages
+## 🌟 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Moeed-Saqib&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Moeed-Saqib&layout=compact&langs_count=8&card_width=500" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution" />
 </div>
 
 ---
@@ -51,5 +57,4 @@ I’m a passionate Software Engineer who loves developing intuitive and efficien
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-moeed-saqib)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Abdul-Moeed-Saqib)
-
 
