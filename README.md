@@ -34,7 +34,7 @@ I’m a passionate Software Engineer who loves developing intuitive and efficien
 
 ---
 
-## 🌟 Most Used Languages
+## 🌟 Top Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Moeed-Saqib&layout=compact&langs_count=8&card_width=500" alt="Top Languages" />
