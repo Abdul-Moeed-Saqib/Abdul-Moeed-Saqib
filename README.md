@@ -48,7 +48,7 @@ I’m a passionate Software Engineer who loves developing intuitive and efficien
 
 ## 🚀 Projects
 
-- **[FindThatPC.AI](findthatpcai.com)**: An interface that compares the prices of prebuilt PCs against individual components.
+- **[FindThatPC.AI](https://findthatpcai.com)**: An interface that compares the prices of prebuilt PCs against individual components.
 - **[URCuisine](https://github.com/Abdul-Moeed-Saqib/URCuisine)**: A full-stack web application allowing users to showcase dishes and recipes.
 
 ---
